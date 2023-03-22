@@ -10,7 +10,7 @@ git branch -M main - переименовываем ветку
 git push -u origin main - загружаем на Github (дальше можно просто git push)
 git log - просмотр коммитов
 git branch feature1 - создание новой ветки feature1
-git checout feature1 - переход на ветку feature1(-b - создаем новую и переходим)
+git checkout feature1 - переход на ветку feature1(-b - создаем новую и переходим)
 git branch - просмотр веток
 git branch -D feature1 - удаление ветки
 git merge feature1 - слияние ветки feature1 с текущей
