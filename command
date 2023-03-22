@@ -21,7 +21,7 @@ git reset test1 - вывод файла из стейджа
 git reset hard HEAD^1 - возвращение на один коммит назад(soft - файлы изменены но коммита не было)
 git commit --amend - изменение коммита
 git clone git@github.com:Zivalka/Test.git - перемещение проекта с репозитория
-
+git pull - обновление ветки
 
 
 
